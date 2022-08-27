@@ -1,5 +1,5 @@
 
-baseURL = 'http://komangshary.github.io/'
+baseURL = 'http://komangshary.github.io/komangshary.github.io'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
